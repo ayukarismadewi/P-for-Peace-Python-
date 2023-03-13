@@ -1,2 +1,2 @@
-# P-for-Peace-Python-
+# P-for-Peace-
 Another crazy ideas
